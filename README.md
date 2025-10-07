@@ -1,9 +1,9 @@
 # Setup
 
-#### 1 Install Python 
+#### 1. Install Python 
 https://www.python.org/downloads/
 
-#### 2 Create a virtual environment
+#### 2. Create a virtual environment
 ```bash
 python -m venv llm-test
 ```
@@ -18,7 +18,7 @@ source llm-test/bin/activate
 pip install -r requirements.txt
 ```
 
-### 5. Run the test script
+#### 5. Run the test script
 ```bash
 python test.py
 ```
