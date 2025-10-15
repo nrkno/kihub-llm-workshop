@@ -1,1 +1,8 @@
 openai
+ipykernel
+litellm
+langchain[openai]
+langchain-community
+bs4
+langgraph
+numpy
