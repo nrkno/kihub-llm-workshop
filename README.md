@@ -18,7 +18,12 @@ source llm-test/bin/activate
 pip install -r requirements.txt
 ```
 
-#### 5. Run the test script
+#### 5. Add your api key to the test
+```bash
+vi test.py
+```
+
+#### 6. Run the test script
 ```bash
 python test.py
 ```
