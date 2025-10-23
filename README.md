@@ -18,13 +18,9 @@ source llm-test/bin/activate
 pip install -r requirements.txt
 ```
 
-#### 5. Add your api key to the test
-```bash
-vi test.py
-```
+#### 5.Link the virtual env to the jupter notebook 
+Open the jupter notebook in VSCode (or similar) and choose the llm-test virtual env as the kernel
 
-#### 6. Run the test script
-```bash
-python test.py
-```
+#### 6. Run the jupter notebook 
+
 (You need to be inside NRK's network)
